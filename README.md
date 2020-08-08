@@ -1,7 +1,7 @@
 ## Hi there, I'm Keo 👋
 - I'm a software developer graduate
 - Currently furthering my studies
-- And also a volunteer student mentor at <a href="https://coderdojo.com/">CoderDojo</a>
+- And also a student mentor volunteer at <a href="https://coderdojo.com/">CoderDojo</a>
 
 ### Languages and Tools:
 

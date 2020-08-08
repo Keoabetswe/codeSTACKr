@@ -1,8 +1,8 @@
-### Hi there, I'm Keo 👋
-
-## I'm a Software Developer Graduate
+## Hi there, I'm Keo 👋
+- I'm a software developer graduate
 - Currently furthering my studies
-- And learning JavaScript
+- Learning JavaScript
+- Volunteer student mentor at <a href="https://coderdojo.com/">CoderDojo</a>
 
 ### Languages and Tools:
 

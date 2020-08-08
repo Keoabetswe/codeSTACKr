@@ -1,7 +1,6 @@
 ## Hi there, I'm Keo 👋
 - I'm a software developer graduate
 - Currently furthering my studies
-- Learning JavaScript
 - Volunteer student mentor at <a href="https://coderdojo.com/">CoderDojo</a>
 
 ### Languages and Tools:

@@ -1,4 +1,4 @@
-## Hi there, I'm Keo 👋
+## Hi there, I'm Keo <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width=40 height=40 />  
 - I'm a software developer graduate
 - Currently furthering my studies
 - And also a student mentor volunteer at <a href="https://coderdojo.com/">CoderDojo</a>

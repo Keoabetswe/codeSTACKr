@@ -15,10 +15,6 @@
 <img align="left" alt="MySQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-<br /><br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keoabetswe&layout=compact&hide=Hack)](https://github.com/Keoabetswe/github-readme-stats)
-
 ### Connect with me:
 
 [<img align="left" alt="Personal Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]

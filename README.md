@@ -1,6 +1,6 @@
 ## Hi there, I'm Keo <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width=40 height=40 />  
-- I'm a software developer graduate
-- And also a student mentor volunteer at <a href="https://coderdojo.com/">CoderDojo</a>
+- I'm a software engineer
+- And a volunteer student mentor at <a href="https://coderdojo.com/">CoderDojo</a>
 
 ### Languages and Tools:
 

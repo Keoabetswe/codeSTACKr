@@ -2,18 +2,6 @@
 - I'm a software engineer
 - And a volunteer student mentor at <a href="https://coderdojo.com/">CoderDojo</a>
 
-### Languages and Tools:
-
-<img align="left" alt="Java" width="36px" src="https://cdn.iconscout.com/icon/free/png-256/java-23-225999.png" />
-<img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Bootstrap" width="36px" src="https://cdn.iconscout.com/icon/free/png-64/bootstrap-226077.png" />
-<img align="left" alt="PHP" width="36px" src="https://cdn.iconscout.com/icon/free/png-512/php-27-226042.png" />
-<img align="left" alt="SQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
 <br/><br/>
 
 ### Connect with me:

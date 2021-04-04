@@ -2,8 +2,6 @@
 - I'm a software engineer
 - And a volunteer student mentor at <a href="https://coderdojo.com/">CoderDojo</a>
 
-<br/>
-
 ### Connect with me:
 
 [<img align="left" alt="Personal Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]

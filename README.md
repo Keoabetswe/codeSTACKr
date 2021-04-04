@@ -2,7 +2,7 @@
 - I'm a software engineer
 - And a volunteer student mentor at <a href="https://coderdojo.com/">CoderDojo</a>
 
-<br/><br/>
+<br/>
 
 ### Connect with me:
 

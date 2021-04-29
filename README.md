@@ -1,7 +1,10 @@
 ## Hi there <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width=40 height=40 />  
 
+</br></br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keoabetswe&layout=compact&count-private=true&theme=dark&hide=html,css)](https://github.com/keoabetswe/github-readme-stats)
+
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keoabetswe&langs_count=8&layout=compact&count-private=true&theme=dark&hide=html,css)](https://github.com/keoabetswe/github-readme-stats)
 
 [<img src='https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg' alt='Personal Website' height='32'>][1]&nbsp;
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='32'>][2]&nbsp;

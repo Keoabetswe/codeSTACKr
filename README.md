@@ -5,7 +5,7 @@
 [<img align="left" alt="Medium | LinkedIn" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2018/240/iconmonstr-medium-1.png" />][medium]
 
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keoabetswe&layout=compact)](https://github.com/keoabetswe/github-readme-stats)
 
 [website]: http://www.keonthite.me/
 [linkedin]: https://www.linkedin.com/in/keoabetswe-nthite/

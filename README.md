@@ -1,6 +1,6 @@
 ## Hi there <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width=40 height=40 />  
 
-</br></br>
+</br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keoabetswe&layout=compact&count-private=true&theme=dark&hide=html,css)](https://github.com/keoabetswe/github-readme-stats)
 

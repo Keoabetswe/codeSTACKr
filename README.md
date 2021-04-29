@@ -11,7 +11,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='32'>][3]&nbsp;
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='Medium' height='32'>][4]
 
-[1]: http://www.keonthite.me/
+[1]: https://keo-nthite.herokuapp.com/
 [2]: https://www.linkedin.com/in/keoabetswe-nthite/
 [3]: https://stackoverflow.com/users/8661915/keo
 [4]: https://medium.com/@keonthite

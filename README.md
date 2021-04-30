@@ -2,7 +2,7 @@
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keoabetswe&layout=compact&count-private=true&theme=dark&hide=html,css)](https://github.com/keoabetswe/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keoabetswe&layout=compact&count-private=true&theme=dark&hide=html,css,hack)](https://github.com/keoabetswe/github-readme-stats)
 
 </br>
 

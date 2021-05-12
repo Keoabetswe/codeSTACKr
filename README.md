@@ -9,8 +9,10 @@
 [<img src='https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg' alt='Personal Website' height='32' target="_blank">][1]&nbsp;
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='32' target="_blank">][2]&nbsp;
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='Medium' height='32' target="_blank">][3]
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/freecodecamp.svg' alt='FreeCodeCamp' height='32' target="_blank">][3]
 
 [1]: https://keo-nthite.herokuapp.com/
 [2]: https://www.linkedin.com/in/keoabetswe-nthite/
 [3]: https://medium.com/@keonthite
+[3]: https://www.freecodecamp.org/keoabetswe
 
